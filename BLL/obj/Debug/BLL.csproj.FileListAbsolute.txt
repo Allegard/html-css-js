@@ -1,0 +1,4 @@
+C:\Users\Sadiquillo\Desktop\EmployeeMockupWebDemo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Sadiquillo\Desktop\EmployeeMockupWebDemo\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\Sadiquillo\Desktop\EmployeeMockupWebDemo\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\Sadiquillo\Desktop\EmployeeMockupWebDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache

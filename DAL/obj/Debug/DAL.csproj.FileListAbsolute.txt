@@ -1,0 +1,4 @@
+C:\Users\Sadiquillo\Desktop\EmployeeMockupWebDemo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Sadiquillo\Desktop\EmployeeMockupWebDemo\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Sadiquillo\Desktop\EmployeeMockupWebDemo\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Sadiquillo\Desktop\EmployeeMockupWebDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
